@@ -17,3 +17,6 @@ https://youtu.be/bp-bTpEvU4U?si=_4TNTJKKtyLhJAUy
 
 第五次作業
 https://colab.research.google.com/drive/1irlLrPwEqILQGYWiCELRxM_kA3ET-hOU#scrollTo=ChK3Im9afsmm
+
+期末專題第二次進度追蹤影片連結
+https://youtu.be/guIjrDoQ0TM?si=Qy95apl9PMlYF5HH
